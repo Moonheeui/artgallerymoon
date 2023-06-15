@@ -23,7 +23,7 @@
     <header class="main-header">
         <div class="container">
             <div class="header-flex">
-                <a href="#" class="logo"><img src="../images/logo.png" alt="Art Gallery Logo.png"></a>
+                <a href="#" class="logo"><img src="assets/images/logo.png" alt="Art Gallery Logo.png"></a>
                 <a href="#" class="bar"><i class="fa-solid fa-bars"></i></a>
                 <nav>
                     <ul class="nav-list">
